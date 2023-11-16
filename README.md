@@ -4,7 +4,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -13,7 +12,7 @@
     <img src="images/logo.jpg" alt="Logo" height="80">
   </a>
 
-<h3 align="center">Indonesian Plate Police Number Vehicle</h3>
+<h3 align="center">Indonesian Plate Police Number Vehicle API</h3>
 
   <p align="center">
     A Complete List of Indonesian Vehicle Number Plate Codes
@@ -25,37 +24,23 @@
   </p>
 </div>
 
-## About The Project
+## About
 
 [![Indonesian Plate Number Screen Shot][product-screenshot]](https://appcyclic)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
-- [![Next][Next.js]][Next-url]
-- [![React][React.js]][React-url]
-- [![Vue][Vue.js]][Vue-url]
-- [![Angular][Angular.io]][Angular-url]
-- [![Svelte][Svelte.dev]][Svelte-url]
-- [![Laravel][Laravel.com]][Laravel-url]
-- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-- [![JQuery][JQuery.com]][JQuery-url]
-
-- nodejs
-- express
-- async
+- Node.js
+- Express
+- Async
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+## Brace Your Self
 
 ### Prerequisites
 
@@ -66,35 +51,42 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/rifkifata/plate.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
-   npm install
+   npm install --save
    ```
-4. Start The Server
+3. Start The Server
    ```sh
-   node index.js;
+   node ./index.js
    ```
 
 <!-- USAGE EXAMPLES -->
 
-## Usage API
+## Usage
 
-1. url :
-2. method : `POST`
-3. body
+As an Indonesian, I really understand how lazy we are and really like something that is free. so I created a Public API that you can access for free, and also I created an application that consumes the Public API that you can use as wisely.
+
+### Rest Full API
+
+1. Endpoint :
+2. Method : `POST`
+3. Header :
+4. Body :
+   ```elixir
    {
-   "areaCode" : "DW",
-   "subAreaCode" : "K"
+   "areaCode" : "BL",
+   "subAreaCode" : "Z"
    }
+   ```
 
-## Usage Application
+## Application
 
-1. Access https://teuku.my.id/
+1. Access it at : [teuku.my.id/](https://teuku.my.id/)
+2. If you are smart people, i think you should understand how to use it.
 
 <!-- CONTRIBUTING -->
 
@@ -113,7 +105,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-Mail Me: [mailto:rifkifata@gmail.com](rifkifata@gmail.com)
+Mail Me: [rifkifata@gmail.com](mailto:rifkifata@gmail.com)
 Project Link: [https://github.com/rifkifata/plate](https://github.com/rifkifata/plate)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
