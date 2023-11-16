@@ -26,17 +26,19 @@
 
 ## About
 
-[![Indonesian Plate Number Screen Shot][product-screenshot]](https://appcyclic)
+This project is useful for finding out the area of origin of the vehicle when you first bought it, you just need to enter the area code at the front and at the end of the vehicle plate number that you want to search for.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+You can also use the Public API that we created for your application to consume **for free**
+
+You can grab the data in `area.json` for free and put it into your database for reuse
+
+[![Indonesian Plate Number Screen Shot][product-screenshot]](https://appcyclic)
 
 ### Built With
 
 - Node.js
 - Express
 - Async
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -68,22 +70,50 @@
 
 ## Usage
 
-As an Indonesian, I really understand how lazy we are and really like something that is free. so I created a Public API that you can access for free, and also I created an application that consumes the Public API that you can use as wisely.
+As an Indonesian, I really understand how lazy we are and really like something that is free. so I created a Public API that you can access for free, and also I created an application that consumes this Public API that you can use as wisely.
 
 ### Rest Full API
 
-1. Endpoint :
+1. Endpoint : `teuku.my.id`
 2. Method : `POST`
 3. Header :
 4. Body :
-   ```elixir
+
+   ```javascript
    {
    "areaCode" : "BL",
    "subAreaCode" : "Z"
    }
    ```
 
-## Application
+   in case : BL 00 N
+   \*nb : 1. areaCode is mandatory 2. subAreaCode is optional 3. areaCode is like "BL" 4. subAreaCode is "N"
+
+5. res
+
+```javascript
+{
+  "areaCode": "BL",
+  "subAreaCode": "A",
+  "areaName": "Aceh",
+  "subAreaName": "Kota Banda Aceh",
+  "subAreaArr": [
+      {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Banda Aceh"
+      },
+      {
+          "subAreaCode": "J",
+          "subAreaName": "Kota Banda Aceh"
+      },
+      .
+      .
+      .
+  ]
+}
+```
+
+### Application
 
 1. Access it at : [teuku.my.id/](https://teuku.my.id/)
 2. If you are smart people, i think you should understand how to use it.
