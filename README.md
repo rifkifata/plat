@@ -26,9 +26,9 @@
 
 ## About
 
-This project is useful for find out the area of origin of the vehicle when you first bought it, you just need to enter the area code at the front and at the end of the vehicle plate number that you want to search for. You can also use the Public API that we created for your application to consume **for free**. You can grab the data in `area.json` for free and put it into your database for reuse.
+This project is useful for check the area of origin of the vehicle when you first bought it, you just need to enter the area code at the front and at the end of the vehicle plate number that you want to search for. You can also use the Public API that we created for your application to consume **for free**. You can grab the data in `area.json` for free and put it into your database for reuse.
 
-[![Indonesian Plate Number Screen Shot][product-screenshot]](https://appcyclic)
+[![Indonesian Plate Number Screen Shot][product-screenshot]](https://teuku.my.id)
 
 ### Built With
 
@@ -70,7 +70,7 @@ As an Indonesian, I really understand how lazy we are and really like something 
 
 ### Rest Full API
 
-1. Endpoint : `teuku.my.id`
+1. Endpoint : `https://cek-lokasi-plat-kendaraan.cyclic.app/plat/`
 2. Method : `POST`
 3. Header :
 4. Body :
@@ -95,11 +95,11 @@ As an Indonesian, I really understand how lazy we are and really like something 
 
 ```javascript
 {
-"areaCode": "BL",
-"subAreaCode": "A",
-"areaName": "Aceh",
-"subAreaName": "Kota Banda Aceh",
-"subAreaArr": [
+  "areaCode": "BL",
+  "subAreaCode": "A",
+  "areaName": "Aceh",
+  "subAreaName": "Kota Banda Aceh",
+  "subAreaArr": [
     {
         "subAreaCode": "A",
         "subAreaName": "Kota Banda Aceh"
@@ -111,7 +111,7 @@ As an Indonesian, I really understand how lazy we are and really like something 
     .
     .
     .
-]
+  ]
 }
 ```
 

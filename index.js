@@ -32,8 +32,11 @@ app.use(function (req, res, next) {
 })
 
 app.post('/plat/', async (req, res) => {
-    const areaCode = req.body.areaCode
-    const subAreaCode = req.body.subAreaCode ? req.body.subAreaCode : ""
+    let areaCode = req.body.areaCode
+    let subAreaCode = req.body.subAreaCode ? req.body.subAreaCode : ""
+    areaCode = areaCode.toUpperCase()
+    subAreaCode = areaCode.toUpperCase()
+
     var regExp = new RegExp("^[a-zA-Z]+$");
     let validation = true
 
