@@ -1,0 +1,4474 @@
+{
+  "data": [
+    {
+      "areaCode": "BA",
+      "areaName": "Sumatera Barat",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Padang"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kota Padang"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kota Padang"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kota Padang"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kota Padang"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Lima Puluh Kota"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Lima Puluh Kota"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Pasaman"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Tanah Datar"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Padang Pariaman"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Pesisir Selatan"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Pesisir Selatan"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Solok"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kota Sawahlunto"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Sijunjung"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kota Bukittinggi"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kota Payakumbuh"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kota Padang Panjang"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kota Solok"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Pasaman Barat"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Agam"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Agam"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Kepulauan Mentawai"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Dharmasraya"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kota Pariaman"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Solok Selatan"
+        }
+      ]
+    },
+    {
+      "areaCode": "BB",
+      "areaName": "Sumatera Utara",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Sibolga"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kota Sibolga"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kota Sibolga"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Tapanuli Utara"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Samosir"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Humbang Hasundutan"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Toba Samosir"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kota Padang Sidempuan"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kota Padang Sidempuan"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Tapanuli Selatan"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Padang Lawas"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Padang Lawas Utara"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Tapanuli Tengah"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Nias Utara"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Mandailing Natal"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kota Gunungsitoli"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Nias Barat"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Nias"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Nias Selatan"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Dairi"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Pakpak Bharat"
+        }
+      ]
+    },
+    {
+      "areaCode": "BD",
+      "areaName": "Bengkulu",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Bengkulu"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kota Bengkulu"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kota Bengkulu"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kota Bengkulu"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Bengkulu Selatan"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Bengkulu Selatan"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Bengkulu Utara"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Bengkulu Utara"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Kepahiang"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Lebong"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Rejang Lebong"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Muko Muko"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Seluma"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Kaur"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Bengkulu Tengah"
+        }
+      ]
+    },
+    {
+      "areaCode": "BE",
+      "areaName": "Lampung",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Bandar Lampung"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kota Bandar Lampung"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kota Bandar Lampung"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kota Bandar Lampung"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Lampung Selatan"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Lampung Selatan"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Lampung Selatan"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kota Metro"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Lampung Tengah"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Lampung Tengah"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Lampung Tengah"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Lampung Utara"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Lampung Utara"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Mesuji"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Lampung Barat"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Lampung Timur"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Lampung Timur"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Tulang Bawang Barat"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Pesawaran"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Tulang Bawang"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Tulang Bawang"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Tanggamus"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Tanggamus"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Pringsewu"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten WayKanan"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Pesisir Barat"
+        }
+      ]
+    },
+    {
+      "areaCode": "BG",
+      "areaName": "Sumatera Selatan",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Palembang"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kota Palembang"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kota Palembang"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kota Palembang"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kota Palembang"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kota Palembang"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kota Palembang"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kota Palembang"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kota Palembang"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kota Palembang"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kota Palembang"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Musi Banyuasin"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kota Prabumulih"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Muara Enim"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Lahat"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten OganKomering Ulu"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Musi Rawas"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kota Lubuk Linggau"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Banyuasin"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Ogan Komering Ilir"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Penukal Abab Lematang Ilir"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Empat Lawang"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Ogan Ilir"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten OganKomering Ulu Selatan"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kota Pagaralam"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten OganKomering Ulu Timur"
+        }
+      ]
+    },
+    {
+      "areaCode": "BH",
+      "areaName": "Jambi",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Jambi"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kota Jambi"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kota Jambi"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kota Jambi"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kota Jambi"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kota Jambi"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Batanghari"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Batanghari"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Tebo"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Tebo"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "KabupatenKerinci"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Tanjung Jabung Barat"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Merangin"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Merangin"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Muaro Jambi"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Muaro Jambi"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Bungo"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Bungo"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kota Sungai Penuh"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Muaro Jambi"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Muaro Jambi"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Tanjung Jabung Timur"
+        }
+      ]
+    },
+    {
+      "areaCode": "BK",
+      "areaName": "Sumatera Utara",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Medan"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kota Medan"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kota Medan"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kota Medan"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kota Medan"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kota Medan"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kota Medan"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kota Medan"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kota Medan"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kota Medan"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kota Medan"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Labuhanbatu Utara"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Deli Serdang"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kota Tebing Tinggi"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Batubara"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Langkat"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kota Tanjung Balai"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kota Binjai"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Karo"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Simalungun"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Simalungun"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Asahan"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kota Pematang Siantar"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Serdang Bedagai"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Labuhanbatu"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Labuhanbatu Selatan"
+        }
+      ]
+    },
+    {
+      "areaCode": "BL",
+      "areaName": "Aceh",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Banda Aceh"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kota Banda Aceh"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kota Banda Aceh"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Aceh Besar"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Aceh Barat Daya"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Aceh Timur"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Aceh Barat"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kota Langsa"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Aceh Tengah"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Gayo Lues"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kota Subulussalam"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Aceh Utara"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Aceh Utara"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kota Sabang"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kota Lhokseumawe"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Pidie Jaya"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Pidie"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Aceh Singkil"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Simeulue"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Aceh Selatan"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Aceh Tamiang"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Nagan Raya"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Aceh Jaya"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Aceh Jaya"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Bener Meriah"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Bireuen"
+        }
+      ]
+    },
+    {
+      "areaCode": "BM",
+      "areaName": "Riau",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Pekanbaru"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kota Pekanbaru"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kota Pekanbaru"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kota Pekanbaru"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kota Pekanbaru"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kota Pekanbaru"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Indragiri Hulu"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Indragiri Hulu"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Pelalawan"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Pelalawan"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Bengkalis"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Bengkalis"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "KabupatenKampar"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "KabupatenKampar"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "KabupatenKampar"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Indragiri Hilir"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kota Dumai"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kota Dumai"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Kuantan Singingi"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Kuantan Singingi"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Rokan Hulu"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Rokan Hulu"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Rokan Hilir"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Rokan Hilir"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Siak"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Siak"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Kepulauan Meranti"
+        }
+      ]
+    },
+    {
+      "areaCode": "BN",
+      "areaName": "Bangka Belitung",
+      "subArea": [
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Belitung Timur"
+        },
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Pangkal Pinang"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Bangka"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Bangka Tengah"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Bangka Barat"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Bangka Selatan"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Belitung"
+        }
+      ]
+    },
+    {
+      "areaCode": "BP",
+      "areaName": "Kepulauan Riau",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Tanjung Pinang"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kota Tanjung Pinang"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Bintan"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kota Batam"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kota Batam"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kota Batam"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kota Batam"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kota Batam"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kota Batam"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kota Batam"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kota Batam"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kota Batam"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kota Batam"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kota Batam"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kota Batam"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kota Batam"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Karimun"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Natuna"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Lingga"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Kepulauan Anambas"
+        }
+      ]
+    },
+    {
+      "areaCode": "A",
+      "areaName": "Banten",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Serang"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kota Serang"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kota Serang"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kota Serang"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Serang"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Serang"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Serang"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Serang"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Serang"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Pandeglang"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Pandeglang"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Pandeglang"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Pandeglang"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Pandeglang"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kota Cilegon"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kota Cilegon"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Lebak"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Lebak"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Lebak"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Lebak"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Tangerang"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Tangerang"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Tangerang"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Tangerang"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Tangerang"
+        }
+      ]
+    },
+    {
+      "areaCode": "B",
+      "areaName": "Jawa Barat, DKI Jakarta, Banten",
+      "subArea": [
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kota Administrasi Jakarta Barat"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kota Tangerang"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kota Tangerang"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kota Depok"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kota Depok"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Bekasi"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Tangerang"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Tangerang"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kota Bekasi"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kota Administrasi Jakarta Pusat"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kota Administrasi Jakarta Selatan"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kota Administrasi Jakarta Timur"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kota Administrasi Jakarta Utara"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kota Tangerang Selatan"
+        }
+      ]
+    },
+    {
+      "areaCode": "D",
+      "areaName": "Jawa Barat",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Bandung"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kota Bandung"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kota Bandung"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kota Bandung"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kota Bandung"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kota Bandung"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kota Bandung"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kota Bandung"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kota Bandung"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kota Bandung"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kota Bandung"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kota Bandung"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kota Bandung"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kota Bandung"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kota Bandung"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kota Bandung"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kota Bandung"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kota Cimahi"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kota Cimahi"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Bandung Barat"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Bandung Barat"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Bandung Barat"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Bandung"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Bandung"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Bandung"
+        }
+      ]
+    },
+    {
+      "areaCode": "E",
+      "areaName": "Jawa Barat",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Cirebon"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kota Cirebon"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kota Cirebon"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "V"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kota Cirebon"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kota Cirebon"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kota Cirebon"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Cirebon"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Cirebon"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Cirebon"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Cirebon"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Cirebon"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Cirebon"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Cirebon"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Cirebon"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Indramayu"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Indramayu"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Indramayu"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Indramayu"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Indramayu"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Majalengka"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Majalengka"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Majalengka"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Majalengka"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Kuningan"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Kuningan"
+        }
+      ]
+    },
+    {
+      "areaCode": "F",
+      "areaName": "Jawa Barat",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Bogor"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kota Bogor"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kota Bogor"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kota Bogor"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kota Bogor"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Bogor"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Bogor"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Bogor"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Bogor"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Bogor"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Bogor"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Bogor"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Bogor"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Bogor"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Bogor"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Bogor"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Bogor"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Sukabumi"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Sukabumi"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Sukabumi"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kota Sukabumi"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kota Sukabumi"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kota Sukabumi"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kota Sukabumi"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kota Sukabumi"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kota Sukabumi"
+        }
+      ]
+    },
+    {
+      "areaCode": "T",
+      "areaName": "Jawa Barat",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kabupaten Purwakarta"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Purwakarta"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Purwakarta"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Karawang"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Karawang"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Karawang"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Karawang"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Karawang"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Karawang"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Karawang"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Karawang"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Karawang"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Karawang"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Karawang"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Karawang"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Karawang"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Karawang"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Karawang"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Karawang"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Sebagian Kabupaten Bekasi & Subang"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Sebagian Kabupaten Bekasi & Subang"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Sebagian Kabupaten Bekasi & Subang"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Sebagian Kabupaten Bekasi & Subang"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Sebagian Kabupaten Bekasi & Subang"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Sebagian Kabupaten Bekasi & Subang"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Sebagian Kabupaten Bekasi & Subang"
+        }
+      ]
+    },
+    {
+      "areaCode": "Z",
+      "areaName": "Jawa Barat",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kabupaten Sumedang"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Sumedang"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Sumedang"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Garut"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Garut"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Garut"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Garut"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kota Tasikmalaya"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kota Tasikmalaya"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kota Tasikmalaya"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Tasikmalaya"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Tasikmalaya"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Tasikmalaya"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Tasikmalaya"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Tasikmalaya"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Tasikmalaya"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Tasikmalaya"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Tasikmalaya"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Tasikmalaya"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Ciamis"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Ciamis"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Ciamis"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Pangandaran"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kota Banjar"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kota Banjar"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kota Banjar"
+        }
+      ]
+    },
+    {
+      "areaCode": "G",
+      "areaName": "Jawa Tengah",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Pekalongan"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kota Pekalongan"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kota Pekalongan"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Pekalongan"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Pekalongan"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Pekalongan"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Pekalongan"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Batang"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Batang"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Batang"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Batang"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Pemalang"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Pemalang"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Pemalang"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Pemalang"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kota Tegal"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kota Tegal"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kota Tegal"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Tegal"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Tegal"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Tegal"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Tegal"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Brebes"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Brebes"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Brebes"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Brebes"
+        }
+      ]
+    },
+    {
+      "areaCode": "H",
+      "areaName": "Jawa Tengah",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Semarang"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kota Semarang"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kota Semarang"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kota Semarang"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kota Semarang"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kota Semarang"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kota Semarang"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kota Semarang"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kota Semarang"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kota Semarang"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kota Semarang"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kota Semarang"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kota Salatiga"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kota Salatiga"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kota Salatiga"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kota Salatiga"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Semarang"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Semarang"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Semarang"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Semarang"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Kendal"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Kendal"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Kendal"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Demak"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Demak"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Demak"
+        }
+      ]
+    },
+    {
+      "areaCode": "K",
+      "areaName": "Jawa Tengah",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kabupaten Pati"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Pati"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Pati"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Pati"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Pati"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Kudus"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Kudus"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Kudus"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Kudus"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Kudus"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Jepara"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Jepara"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Jepara"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Jepara"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Rembang"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Rembang"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Rembang"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Rembang"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Blora"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Blora"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Blora"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Blora"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Grobogan"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Grobogan"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Grobogan"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Grobogan"
+        }
+      ]
+    },
+    {
+      "areaCode": "R",
+      "areaName": "Jawa Tengah",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kabupaten Banyumas"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Banyumas"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Banyumas"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Banyumas"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Banyumas"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Banyumas"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Banyumas"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Cilacap"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Cilacap"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Cilacap"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Cilacap"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Cilacap"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Cilacap"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Cilacap"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Purbalingga"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Purbalingga"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Purbalingga"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Purbalingga"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Purbalingga"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Purbalingga"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Banjarnegara"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Banjarnegara"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Banjarnegara"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Banjarnegara"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Banjarnegara"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Banjarnegara"
+        }
+      ]
+    },
+    {
+      "areaCode": "AA",
+      "areaName": "Jawa Tengah",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Magelang"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kota Magelang"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kota Magelang"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kota Magelang"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Magelang"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Magelang"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Magelang"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Magelang"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Magelang"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Purworejo"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Purworejo"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Purworejo"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Purworejo"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Kebumen"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Kebumen"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Kebumen"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Kebumen"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Temanggung"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Temanggung"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Temanggung"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Wonosobo"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Wonosobo"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Wonosobo"
+        }
+      ]
+    },
+    {
+      "areaCode": "AB",
+      "areaName": "DI Yogyakarta",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Yogyakarta"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kota Yogyakarta"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kota Yogyakarta"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kota Yogyakarta"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kota Yogyakarta"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Bantul"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Bantul"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Bantul"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Bantul"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Bantul"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Kulon Progo"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Kulon Progo"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Kulon Progo"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Kulon Progo"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten GunungKidul"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten GunungKidul"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten GunungKidul"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Sleman"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Sleman"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Sleman"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Sleman"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Sleman"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Sleman"
+        }
+      ]
+    },
+    {
+      "areaCode": "AD",
+      "areaName": "Jawa Tengah",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Surakarta"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kota Surakarta"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kota Surakarta"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kota Surakarta"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Sukoharjo"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Sukoharjo"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Sukoharjo"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Sukoharjo"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Klaten"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Klaten"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Klaten"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Klaten"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Klaten"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Boyolali"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Boyolali"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Boyolali"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Sragen"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Sragen"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Sragen"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "KabupatenKaranganyar"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "KabupatenKaranganyar"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "KabupatenKaranganyar"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Wonogiri"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Wonogiri"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Wonogiri"
+        }
+      ]
+    },
+    {
+      "areaCode": "M",
+      "areaName": "Jawa Timur",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kabupaten Pamekasan"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Pamekasan"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Pamekasan"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Pamekasan"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Pamekasan"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Pamekasan"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Pamekasan"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Bangkalan"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Bangkalan"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Bangkalan"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Bangkalan"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Bangkalan"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Bangkalan"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Bangkalan"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Sampang"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Sampang"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Sampang"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Sampang"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Sampang"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Sampang"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Sumenep"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Sumenep"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Sumenep"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Sumenep"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Sumenep"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Sumenep"
+        }
+      ]
+    },
+    {
+      "areaCode": "N",
+      "areaName": "Jawa Timur",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Malang"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kota Malang"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kota Malang"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kota Malang"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Malang"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Malang"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Malang"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Malang"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Malang"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Malang"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kota Batu"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kota Batu"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Probolinggo"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Probolinggo"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Probolinggo"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kota Probolinggo"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kota Probolinggo"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kota Probolinggo"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Pasuruan"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Pasuruan"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Pasuruan"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kota Pasuruan"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kota Pasuruan"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Lumajang"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Lumajang"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Lumajang"
+        }
+      ]
+    },
+    {
+      "areaCode": "P",
+      "areaName": "Jawa Timur",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kabupaten Bondowoso"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Bondowoso"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Bondowoso"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Bondowoso"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Situbondo"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Situbondo"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Situbondo"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Situbondo"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Situbondo"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Situbondo"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Jember"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Jember"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Jember"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Jember"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Jember"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Jember"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Jember"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Jember"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Jember"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Jember"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Banyuwangi"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Banyuwangi"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Banyuwangi"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Banyuwangi"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Banyuwangi"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Banyuwangi"
+        }
+      ]
+    },
+    {
+      "areaCode": "S",
+      "areaName": "Jawa Timur",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kabupaten Bojonegoro"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Bojonegoro"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Bojonegoro"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Bojonegoro"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Tuban"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Tuban"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Tuban"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Tuban"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Lamongan"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Lamongan"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Lamongan"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Lamongan"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Mojokerto"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Mojokerto"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Mojokerto"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Mojokerto"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Mojokerto"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Mojokerto"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kota Mojokerto"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kota Mojokerto"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kota Mojokerto"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kota Mojokerto"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Jombang"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Jombang"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Jombang"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Jombang"
+        }
+      ]
+    },
+    {
+      "areaCode": "W",
+      "areaName": "Jawa Timur",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kabupaten Gresik"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Gresik"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Gresik"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Gresik"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Gresik"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Gresik"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Gresik"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Gresik"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Gresik"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Gresik"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Gresik"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Gresik"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Gresik"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Sidoarjo"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Sidoarjo"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Sidoarjo"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Sidoarjo"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Sidoarjo"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Sidoarjo"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Sidoarjo"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Sidoarjo"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Sidoarjo"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Sidoarjo"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Sidoarjo"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Sidoarjo"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Sidoarjo"
+        }
+      ]
+    },
+    {
+      "areaCode": "AE",
+      "areaName": "Jawa Timur",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Madiun"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kota Madiun"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kota Madiun"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Madiun"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Madiun"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Madiun"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Madiun"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Ngawi"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Ngawi"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Ngawi"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Ngawi"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Ngawi"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Magetan"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Magetan"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Magetan"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Magetan"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Magetan"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Magetan"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Ponorogo"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Ponorogo"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Ponorogo"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Ponorogo"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Pacitan"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Pacitan"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Pacitan"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Pacitan"
+        }
+      ]
+    },
+    {
+      "areaCode": "AG",
+      "areaName": "Jawa Timur",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Kediri"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kota Kediri"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kota Kediri"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Kediri"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Kediri"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Kediri"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Kediri"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Kediri"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Kediri"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Blitar"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Blitar"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Blitar"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Blitar"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Blitar"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Tulungagung"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Tulungagung"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Tulungagung"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Tulungagung"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kota Blitar"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kota Blitar"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Nganjuk"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Nganjuk"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Nganjuk"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Nganjuk"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Trenggalek"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Trenggalek"
+        }
+      ]
+    },
+    {
+      "areaCode": "DH",
+      "areaName": "Nusa Tenggara Timur",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kabupaten/Kota Kupang"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten/Kota Kupang"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten/Kota Kupang"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Timor Tengah Utara"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Timor Tengah Selatan"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Alor"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Belu"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Rote Ndao"
+        }
+      ]
+    },
+    {
+      "areaCode": "DK",
+      "areaName": "Bali",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Denpasar"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kota Denpasar"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kota Denpasar"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kota Denpasar"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kota Denpasar"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kota Denpasar"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kota Denpasar"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kota Denpasar"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Badung"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Badung"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Badung"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Tabanan"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Tabanan"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Gianyar"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Gianyar"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Klungkung"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Klungkung"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Bangli"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Bangli"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Karangasem"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Karangasem"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Buleleng"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Buleleng"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Jembrana"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Jembrana"
+        }
+      ]
+    },
+    {
+      "areaCode": "DR",
+      "areaName": "Nusa Tenggara Barat",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Mataram"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kota Mataram"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kota Mataram"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kota Mataram"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kota Mataram"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Lombok Barat"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Lombok Barat"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Lombok Barat"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Lombok Timur"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Lombok Timur"
+        }
+      ]
+    },
+    {
+      "areaCode": "EA",
+      "areaName": "Nusa Tenggara Barat",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kabupaten Sumbawa"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Sumbawa Barat"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Dompu"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kota Bima"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kabupaten Bima"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Bima"
+        }
+      ]
+    },
+    {
+      "areaCode": "EB",
+      "areaName": "Nusa Tenggara Timur",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kabupaten Ende"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Sikka"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Ngada"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Flores Timur"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Manggarai Barat"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Lembata"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Manggarai"
+        }
+      ]
+    },
+    {
+      "areaCode": "ED",
+      "areaName": "Nusa Tenggara Timur",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kabupaten Sumba Barat"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Sumba Timur"
+        }
+      ]
+    },
+    {
+      "areaCode": "DA",
+      "areaName": "Kalimantan Selatan",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Banjarmasin"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kota Banjarmasin"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kota Banjarmasin"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kota Banjarmasin"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kota Banjarmasin"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kota Banjarmasin"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kota Banjarmasin"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kota Banjarmasin"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kota Banjarmasin"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kota Banjarmasin"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kota Banjarmasin"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Banjar"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Banjar"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Hulu Sungai Selatan"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Hulu Sungai Tengah"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Hulu Sungai Utara"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "KabupatenKota Baru"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Tabalong"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Tabalong"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Tapin"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Tanah Laut"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Barito Kuala"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kota Banjarbaru"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kota Banjarbaru"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Balangan"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Tanah Bumbu"
+        }
+      ]
+    },
+    {
+      "areaCode": "KB",
+      "areaName": "Kalimantan Barat",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Pontianak"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kota Pontianak"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kota Pontianak"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kota Pontianak"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Mempawah"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kota Singkawang"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Sanggau"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Sintang"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Kapuas Hulu"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "KabupatenKetapang"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Melawi"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Bengkayang"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Landak"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Kubu Raya"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Sambas"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Sekadau"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Kayong Utara"
+        }
+      ]
+    },
+    {
+      "areaCode": "KH",
+      "areaName": "Kalimantan Tengah",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Palangkaraya"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kota Palangkaraya"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kota Palangkaraya"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Kapuas"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Kapuas"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Barito Selatan"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Barito Utara"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Kotawaringin Timur"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Kotawaringin Timur"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Kotawaringin Timur"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Kotawaringin Barat"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "abupaten Kotawaringin Barat"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Gunung Mas"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Pulang Pisau"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Barito Timur"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Murung Raya"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Katingan"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Katingan"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Seruyan"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Lamandau"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kabupaten Sukamara"
+        }
+      ]
+    },
+    {
+      "areaCode": "KT",
+      "areaName": "Kalimantan Timur",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Balikpapan"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kota Balikpapan"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kota Balikpapan"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kota Balikpapan"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kota Balikpapan"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kota Samarinda"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kota Samarinda"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kota Samarinda"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kota Samarinda"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kota Samarinda"
+        },
+        {
+          "subAreaCode": "X",
+          "subAreaName": "Kota Samarinda"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Kutai Kartanegara"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Kutai Kartanegara"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Kutai Kartanegara"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kota Bontang"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kota Bontang"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Paser"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Berau"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "KabupatenKutai Barat"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Kutai Timur"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Penajam Paser Utara"
+        }
+      ]
+    },
+    {
+      "areaCode": "DB",
+      "areaName": "Sulawesi Utara",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Manado"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kota Manado"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kota Manado"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kota Manado"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Minahasa"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kota Bitung"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Bolaang Mongondow"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Minahasa Selatan"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Minahasa Utara"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kota Tomohon"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Bolaang Mongondow Utara"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Minahasa Tenggara"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kota Kotamobagu"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Bolaang Mongondow Timur"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Bolaang Mongondow Selatan"
+        }
+      ]
+    },
+    {
+      "areaCode": "DC",
+      "areaName": "Sulawesi Barat",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kabupaten Mamuju"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Majene"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Polewali Mandar"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Mamasa"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Mamuju Utara"
+        }
+      ]
+    },
+    {
+      "areaCode": "DD",
+      "areaName": "Sulawesi Selatan",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Makassar"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kota Makassar"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kota Makassar"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Gowa"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Gowa"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Takalar"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Maros"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Pangkajene Kepulauan"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Bantaeng"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Jeneponto"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Bulukumba"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Selayar"
+        }
+      ]
+    },
+    {
+      "areaCode": "DL",
+      "areaName": "Sulawesi Utara",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kabupaten Kepulauan Sangihe"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Kepulauan Talaud"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "KabupatenKepulauan Sitaro"
+        }
+      ]
+    },
+    {
+      "areaCode": "DM",
+      "areaName": "Gorontalo",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Gorontalo"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Gorontalo"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Boalemo"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Pohuwato"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Bone Bolango"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Gorontalo Utara"
+        }
+      ]
+    },
+    {
+      "areaCode": "DN",
+      "areaName": "Sulawesi Tengah",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Palu"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kota Palu"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kota Palu"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Donggala"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Banggai"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Banggai"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Toli-Toli"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Poso"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Buol"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Morowali"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Banggai Kepulauan"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Parigi Moutong"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Parigi Moutong"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Tojo Una-Una"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Sigi"
+        },
+        {
+          "subAreaCode": "Q",
+          "subAreaName": "Kabupaten Banggai Laut"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Morowali Utara"
+        }
+      ]
+    },
+    {
+      "areaCode": "DP",
+      "areaName": "Sulawesi Selatan",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Parepare"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Barru"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Sidenreng Rappang"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Sidenreng Rappang"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Pinrang"
+        },
+        {
+          "subAreaCode": "R",
+          "subAreaName": "Kabupaten Pinrang"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kota Palopo"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Luwu"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Luwu Timur"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Luwu Utara"
+        },
+        {
+          "subAreaCode": "I",
+          "subAreaName": "Kabupaten Enrekang"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Tana Toraja"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Toraja Utara"
+        }
+      ]
+    },
+    {
+      "areaCode": "DT",
+      "areaName": "Sulawesi Tenggara",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kabupaten Konawe"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Kolaka Utara"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Wakatobi"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "KotaKendari"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Buton Utara"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Buton"
+        },
+        {
+          "subAreaCode": "H",
+          "subAreaName": "Kabupaten Konawe Selatan"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Kolaka"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Bombana"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Konawe Utara"
+        }
+      ]
+    },
+    {
+      "areaCode": "DW",
+      "areaName": "Sulawesi Selatan",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kabupaten Bone"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Wajo"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Soppeng"
+        },
+        {
+          "subAreaCode": "Y",
+          "subAreaName": "Kabupaten Soppeng"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Sinjai"
+        },
+        {
+          "subAreaCode": "Z",
+          "subAreaName": "Kabupaten Sinjai"
+        }
+      ]
+    },
+    {
+      "areaCode": "DE",
+      "areaName": "Maluku",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Ambon"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Maluku Tengah"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Buru"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Maluku Tenggara"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Buru Selatan"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Maluku Barat Daya"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Maluku Barat Daya"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Seram Bagian Timur"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "KabupatenKepulauan Aru"
+        },
+        {
+          "subAreaCode": "O",
+          "subAreaName": "Kabupaten Seram Bagian Barat"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kota Tual"
+        }
+      ]
+    },
+    {
+      "areaCode": "DG",
+      "areaName": "Maluku Utara",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Ternate"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kota Tidore Kepulauan"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Halmahera Timur"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Kepulauan Sula"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Halmahera Selatan"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "Kabupaten Halmahera Tengah"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Halmahera Tengah"
+        },
+        {
+          "subAreaCode": "N",
+          "subAreaName": "Kabupaten Halmahera Utara"
+        },
+        {
+          "subAreaCode": "U",
+          "subAreaName": "Kabupaten Pulau Morotai"
+        }
+      ]
+    },
+    {
+      "areaCode": "PA",
+      "areaName": "Papua",
+      "subArea": [
+        {
+          "subAreaCode": "A",
+          "subAreaName": "Kota Jayapura"
+        },
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Jayawijaya"
+        },
+        {
+          "subAreaCode": "C",
+          "subAreaName": "Kabupaten Paniai"
+        },
+        {
+          "subAreaCode": "D",
+          "subAreaName": "Kabupaten Mimika"
+        },
+        {
+          "subAreaCode": "E",
+          "subAreaName": "Kabupaten Nabire"
+        },
+        {
+          "subAreaCode": "G",
+          "subAreaName": "Kabupaten Merauke"
+        },
+        {
+          "subAreaCode": "J",
+          "subAreaName": "Kabupaten Jayapura"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Biak Numfor"
+        },
+        {
+          "subAreaCode": "L",
+          "subAreaName": "KabupatenKepulauan Yapen"
+        },
+        {
+          "subAreaCode": "P",
+          "subAreaName": "Kabupaten Puncak Jaya"
+        }
+      ]
+    },
+    {
+      "areaCode": "PB",
+      "areaName": "Papua Barat",
+      "subArea": [
+        {
+          "subAreaCode": "B",
+          "subAreaName": "Kabupaten Teluk Bintuni"
+        },
+        {
+          "subAreaCode": "F",
+          "subAreaName": "Kabupaten Fakfak"
+        },
+        {
+          "subAreaCode": "K",
+          "subAreaName": "Kabupaten Kaimana"
+        },
+        {
+          "subAreaCode": "M",
+          "subAreaName": "Kabupaten Manokwari"
+        },
+        {
+          "subAreaCode": "S",
+          "subAreaName": "Kota Sorong"
+        },
+        {
+          "subAreaCode": "T",
+          "subAreaName": "Kabupaten Sorong Selatan"
+        },
+        {
+          "subAreaCode": "V",
+          "subAreaName": "Kabupaten Maybrat"
+        },
+        {
+          "subAreaCode": "W",
+          "subAreaName": "Kabupaten Teluk Wondama"
+        }
+      ]
+    }
+  ]
+}
