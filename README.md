@@ -26,11 +26,7 @@
 
 ## About
 
-This project is useful for finding out the area of origin of the vehicle when you first bought it, you just need to enter the area code at the front and at the end of the vehicle plate number that you want to search for.
-
-You can also use the Public API that we created for your application to consume **for free**
-
-You can grab the data in `area.json` for free and put it into your database for reuse
+This project is useful for find out the area of origin of the vehicle when you first bought it, you just need to enter the area code at the front and at the end of the vehicle plate number that you want to search for. You can also use the Public API that we created for your application to consume **for free**. You can grab the data in `area.json` for free and put it into your database for reuse.
 
 [![Indonesian Plate Number Screen Shot][product-screenshot]](https://appcyclic)
 
@@ -86,34 +82,39 @@ As an Indonesian, I really understand how lazy we are and really like something 
    }
    ```
 
-   in case : BL 00 N
-   \*nb : 1. areaCode is mandatory 2. subAreaCode is optional 3. areaCode is like "BL" 4. subAreaCode is "N"
+   in-case : **BL 00 N**
+   \*nb :
 
-5. res
+   - areaCode is mandatory
+   - subAreaCode is optional
+   - areaCode is like **BL**
+   - subAreaCode is **N**
+
+5. res :
 
 ```javascript
 {
-  "areaCode": "BL",
-  "subAreaCode": "A",
-  "areaName": "Aceh",
-  "subAreaName": "Kota Banda Aceh",
-  "subAreaArr": [
-      {
-          "subAreaCode": "A",
-          "subAreaName": "Kota Banda Aceh"
-      },
-      {
-          "subAreaCode": "J",
-          "subAreaName": "Kota Banda Aceh"
-      },
-      .
-      .
-      .
-  ]
+"areaCode": "BL",
+"subAreaCode": "A",
+"areaName": "Aceh",
+"subAreaName": "Kota Banda Aceh",
+"subAreaArr": [
+    {
+        "subAreaCode": "A",
+        "subAreaName": "Kota Banda Aceh"
+    },
+    {
+        "subAreaCode": "J",
+        "subAreaName": "Kota Banda Aceh"
+    },
+    .
+    .
+    .
+]
 }
 ```
 
-### Application
+### Live Application Demo
 
 1. Access it at : [teuku.my.id/](https://teuku.my.id/)
 2. If you are smart people, i think you should understand how to use it.
