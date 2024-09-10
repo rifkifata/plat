@@ -70,7 +70,7 @@ As an Indonesian, I really understand how lazy we are and really like something 
 
 ### Rest Full API
 
-1. Endpoint : `https://cek-lokasi-plat-kendaraan.cyclic.app/plat/`
+1. Endpoint : `https://cek-lokasi-plat-motor-mobil.vercel.app/plat`
 2. Method : `POST`
 3. Header :
 4. Body :
