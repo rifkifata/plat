@@ -92,7 +92,7 @@ app.listen(port, () => {
 })
 
 async function calculate(areaCode, subAreaCode) {
-    const data = readFileSync('./area.json');
+    const data = readFileSync(process.cwd() + '/area.json', 'utf8');
     const parsed = (JSON.parse(data))
 
     let areaName
